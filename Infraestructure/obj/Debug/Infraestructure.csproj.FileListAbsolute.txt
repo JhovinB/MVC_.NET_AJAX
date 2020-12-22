@@ -1,0 +1,17 @@
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\bin\Debug\Infraestructure.dll.config
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\bin\Debug\Infraestructure.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\bin\Debug\Infraestructure.pdb
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\bin\Debug\Domain.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\bin\Debug\EntityFramework.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\bin\Debug\EntityFramework.SqlServer.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\bin\Debug\Domain.pdb
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\bin\Debug\EntityFramework.xml
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\bin\Debug\EntityFramework.SqlServer.xml
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.csprojAssemblyReference.cache
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.csproj.CopyComplete
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.pdb
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.Migrations.v1.resources
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.csproj.GenerateResource.cache
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Infraestructure\obj\Debug\Infraestructure.Migrations.v2.resources

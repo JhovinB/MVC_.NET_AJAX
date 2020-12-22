@@ -1,0 +1,17 @@
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\Service.dll.config
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\Service.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\Service.pdb
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\Domain.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\EntityFramework.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\EntityFramework.SqlServer.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\Infraestructure.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\Domain.pdb
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\Infraestructure.pdb
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\Infraestructure.dll.config
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\EntityFramework.xml
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\bin\Debug\EntityFramework.SqlServer.xml
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\obj\Debug\Service.csproj.CopyComplete
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\obj\Debug\Service.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Service\obj\Debug\Service.pdb

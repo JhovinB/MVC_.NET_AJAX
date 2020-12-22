@@ -1,0 +1,5 @@
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Domain\bin\Debug\Domain.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Domain\bin\Debug\Domain.pdb
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Domain\obj\Debug\Domain.dll
+D:\6to Ciclo\Web Avanzado\Sem12\MVCAJAX\Domain\obj\Debug\Domain.pdb
